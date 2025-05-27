@@ -61,6 +61,9 @@ GET /command?key=ВАШ_API_КЛЮЧ&command=open_chrome
 /disable_http 
 /enable_http
 ```
+## Управление через Яндекс Алису
+[Источник](https://wiki.yaboard.com/w/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BE%D0%BC)
+
 
 ## 🐧 Поддержка ОС
 
