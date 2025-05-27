@@ -30,6 +30,9 @@ api_key = ваш_api_ключ
 
 [access]
 allowed_ids = ваш_telegram_id
+
+[server]
+http_enabled = true
 ```
 
 ## 🚀 Запуск
